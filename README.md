@@ -1,16 +1,37 @@
-### Hi there 👋
+Rx — Today at 12:14 PM
+github profile readme.md
 
-<!--
-**abhiiji/abhiiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm [Your Name], a web developer who loves to build beautiful, responsive, and user-friendly websites. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- HTML/CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git
+
+## Projects
+
+Here are some of the projects that I've worked on:
+
+
+
+## Experience
+
+- [Company 1](link) - Position, Date range
+- [Company 2](link) - Position, Date range
+
+## Education
+
+- [University](link) - bca, 2020-2023
+
+## Contact me
+
+- Email: abhijithsabii@gmail.com
+- LinkedIn:
+- insagram: 
